@@ -1,0 +1,28 @@
+{
+  "name": "rivolicons",
+  "version": "1.0.0",
+  "authors": [
+    "rivolicons"
+  ],
+  "description": "rivolicons icon",
+  "main": [
+    "style.css",
+    "./fonts/*"
+  ],
+  "keywords": [
+    "rivolicons",
+    "icon"
+  ],
+  "license": [
+    "MIT",
+    "GPL2.0"
+  ],
+  "homepage": "http://www.rivolicons.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
